@@ -1,0 +1,12 @@
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\bin\Debug\net5.0\BlogApp.Domain.deps.json
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\bin\Debug\net5.0\BlogApp.Domain.dll
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\bin\Debug\net5.0\BlogApp.Domain.pdb
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\BlogApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\BlogApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\BlogApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\BlogApp.Domain.AssemblyInfo.cs
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\BlogApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\BlogApp.Domain.dll
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\refint\BlogApp.Domain.dll
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\BlogApp.Domain.pdb
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Domain\obj\Debug\net5.0\ref\BlogApp.Domain.dll

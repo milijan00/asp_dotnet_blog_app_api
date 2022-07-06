@@ -1,0 +1,17 @@
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\bin\Debug\net5.0\BlogApp.Application.deps.json
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\bin\Debug\net5.0\BlogApp.Application.dll
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\bin\Debug\net5.0\BlogApp.Application.pdb
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\bin\Debug\net5.0\BlogApp.DataAccess.dll
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\bin\Debug\net5.0\BlogApp.Domain.dll
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\bin\Debug\net5.0\BlogApp.DataAccess.pdb
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\bin\Debug\net5.0\BlogApp.Domain.pdb
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\BlogApp.Application.csproj.AssemblyReference.cache
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\BlogApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\BlogApp.Application.AssemblyInfoInputs.cache
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\BlogApp.Application.AssemblyInfo.cs
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\BlogApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\BlogApp.Application.csproj.CopyComplete
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\BlogApp.Application.dll
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\refint\BlogApp.Application.dll
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\BlogApp.Application.pdb
+C:\Users\Aca\Desktop\aleksandar\treca godina\asp\SAJT\asp_project\BlogApp\BlogApp.Application\obj\Debug\net5.0\ref\BlogApp.Application.dll
